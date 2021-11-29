@@ -1,7 +1,8 @@
 # Tabla_Periodica
 Proyecto desarrollado para el programa #FutureDevelopers, tabla periódica interactiva.
 
-![Tabla_Periodica](https://user-images.githubusercontent.com/89148608/143875476-587e4408-591f-4f8d-a8ff-524761ced976.png)
+
+![Tabla_Periodica](https://user-images.githubusercontent.com/89148608/143883193-f1d285e6-3a44-4b6e-b563-f2edb94c4db5.png)
 
 
 # Descripcion primer entregable:
