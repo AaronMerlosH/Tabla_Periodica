@@ -26,7 +26,7 @@ def MostrarGrupo(grupo):
         12: ['Zn', 'Cd', 'Hg', 'Cn'],
         13: ['B', 'Al', 'Ga', 'In', 'Tl', 'Nh'],
         14: ['C', 'Si', 'Ge', 'Sn', 'Pb', 'Fl'],
-        15: ['N', 'P', 'As', 'Sb', 'Bi', 'Mc'],
+        15: ['N', 'P', 'As', 'Sb', 'Bi', 'Mc'], 
         16: ['O', 'S', 'Se', 'Te', 'Po', 'Lv'],
         17: ['F', 'Cl', 'Br', 'I', 'At', 'Ts'],
         18: ['He', 'Ne', 'Ar', 'Kr', 'Xe', 'Rn', 'Og']
